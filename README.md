@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Linkan</h1>
 <h3 align="center">A fullstack developer from sweden</h3>
 
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQxMDU4NjAsIm5iZiI6MTcyNDEwNTU2MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDIyMTI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmOGNhOTQzOTA0YWUwZGM4N2M4ZWNiYzZlMTYzNWM5YjAwMmI0NTllMTM3Njc0Nzg4NDAwODU0NWI0YzA2MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WdY0QZCH8Xc7xDecfctbWzVNVhaSnEnr1ykBOC4JwxQ"
+
 - 🔭 I’m currently working on [Skitkul.org](https://github.com/Linkan333/skitkul)
 
 - 🌱 I’m currently learning **Python right now in backend with flask**
