@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on [Skitkul.org](https://github.com/Linkan333/skitkul)
 
 - 🌱 I’m currently learning **Python right now in backend with flask**
 
