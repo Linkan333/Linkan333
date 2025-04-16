@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 - 💻 I work on projects involving **web development**, **backend systems**, and **open source contributions**.
 - 🌱 Currently learning **AI/ML**, **cloud computing**, and **DevOps** to expand my skill set.
 - 🎯 My goal is to **collaborate** with other developers, solve real-world problems, and learn something new every day.
-- ⚡ Fun fact: I’m a big fan of **sci-fi movies** and love tinkering with **hardware gadgets**.
+- ⚡ Fun fact: I’m a big fan of **spiderman** and have lost count on how many **times** i have watched them.
 
 ## 🛠️ Skills & Tools
 - **Languages**: `Python`, `JavaScript`, `C++`, `Ruby`
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ## 📫 Get in Touch
 - **Discord**: [Linkan333](https://discord.com/users/683080741340708866) 
-- **Medium**: [@Linkan333]([https://linkedin.com/in/linkan333](https://medium.com/@linkan333))
+- **Medium**: [@Linkan333](https://medium.com/@linkan333)
 - **Website**: [linkan.dev](https://linkan.dev/)
 
 ## 🌟 Projects
