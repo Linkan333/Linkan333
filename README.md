@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ## 🛠️ Skills & Tools
 - **Languages**: `Python`, `JavaScript`, `C++`, `Ruby`
-- **Frameworks**: `React`, `Node.js`, `Django`, `Ruby on Rails`
-- **Technologies**: `Docker`, `Kubernetes`, `AWS`, `Git`
+- **Frameworks**: `React`, `Node.js`, `Django`, `Nextjs`
+- **Technologies**: `Docker`, `Git`
 - **Databases**: `PostgreSQL`, `MongoDB`, `MySQL`
 
 ## 📈 Stats
